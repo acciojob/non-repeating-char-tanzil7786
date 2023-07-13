@@ -21,4 +21,4 @@ const inputString = prompt("Enter a string:");
 const result = firstNonRepeatingCharacter(inputString);
 
 // Display the result using alert
-alert("First non-repeating character: " + result);
+alert(result);
